@@ -19,7 +19,7 @@ A website which promotes organic farming worldwide
       Organically raised animals are not given antibiotics, growth hormones.
       Organic foods are Genetically Modifies Organism free 
       Organic food is often fresher 
-      Organic milk and meat are richer in nutrients![image](https://user-images.githubusercontent.com/87162408/183336716-4b340a62-f474-4771-aff3-16a9c4a72b6e.png)
+      Organic milk and meat are richer in nutrients
 
 
 3.Providing All information about Organic Farming:
