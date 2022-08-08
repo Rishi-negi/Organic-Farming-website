@@ -1,0 +1,107 @@
+body{
+    height: 2000px;
+}
+.topMain{
+    display: flex;
+    flex-direction: row;
+    height: 90px;
+    background-color: #445A3E;
+    justify-content: space-between;
+}
+
+.logoDiv{
+    width: 200px;
+    height: 80px;
+    color: white;
+    margin: 15px;
+}
+.logoDiv p{
+ margin-top: -20px;
+}
+
+.topMain nav{
+ justify-content: space-between;
+}
+
+.topMain nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.List-style a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 15px;
+    margin-left: 10px;
+ }
+ .List-style li{
+     list-style-type: none;
+     display: inline-block;    
+ }
+
+ #nav1{
+     text-align: center;
+ }
+ #nav1 a:hover{
+     font-weight: 350;
+     font-size: 17px;
+     transition: 2s;
+     text-decoration: underline;
+ }
+ #nav1 li{
+     padding-right: 30px;
+     padding-top: 30px;
+ }
+#exp{
+    width: 70%;
+    border: 2px solid black;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    position: relative;
+    border: 2px solid red;
+    width: 43%;
+    height: auto; 
+    margin: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box:nth-child(2n){
+    align-self: flex-end ;
+}
+.box:nth-child(2n+1)::after {
+    right: -11.8%;
+}
+
+.box:nth-child(2n)::after {
+    left: -14%;
+}
+.box::after{
+    top:17%;
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+}
+.upper-part{
+    width: 100%;
+    border: 2px solid blue;
+    margin: 5px;
+}
+.lower-part{
+    width: 100%;
+    border: 2px solid blue;
+}
+.left{
+    float: left;
+}
+.right{
+    float:right;
+}
