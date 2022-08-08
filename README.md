@@ -22,10 +22,10 @@ A website which promotes organic farming worldwide
       Organic milk and meat are richer in nutrients
 
 
-3.Providing All information about Organic Farming:
+3. Providing All information about Organic Farming:
        Including principles and techniques associated with organic farming , and how is it more beneficial than synthetic farming.
 
-       4-GUIDING PRINCIPLES 
+           4-GUIDING PRINCIPLES 
            Principle of Health: Organic agriculture should sustain and enhance the health of soil, plant, animal, human and planet as one and indivisible.
            Principle of Fairness: Organic agriculture should build on relationships that ensure fairness with regard to common environment and life opportunities.
            Principle of Ecological Balance : Organic agriculture should be based on living ecological systems and cycles, work with them, emulate them and help sustain them.
